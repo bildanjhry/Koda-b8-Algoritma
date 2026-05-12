@@ -24,8 +24,8 @@ pi@{shape: rect, label: "pi = 3.14"}
 r@{shape: lean-r, label: "r"}
 luas@{shape: rect, label: "L = pi x r x r"}
 keliling@{shape: rect, label: "K = 2 x pi x r"}
-l@{shape: lean-r, label: "L"}
-k@{shape: lean-r, label: "K"}
+l@{shape: lean-r, label: '"{L}"'}
+k@{shape: lean-r, label: '"{K}"'}
 finnish@{shape: double-circle, label: "stop"}
 
 start-->pi-->r-->luas-->l-->keliling-->k-->finnish
