@@ -11,7 +11,7 @@ Algoritma ini ditulis untuk memecahkan masalah menentukan suatu bilangan ganjil 
 
 ## Flowchart
 
-Sebuah Flowchart untuk memecahkan apakah bilangan merupakan ganjil atau genap.
+Sebuah Flowchart untuk menentukan apakah bilangan merupakan ganjil atau genap.
 
 
 ```mermaid
