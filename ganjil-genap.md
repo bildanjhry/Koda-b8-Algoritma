@@ -22,7 +22,7 @@ num@{shape: lean-r, label: "Bilangan x"}
 con@{shape: diam, label: "x % 2 = r"}
 outputGenap@{shape: lean-r, label: "(r = 0)  x adalah Genap"}
 outputGanjil@{shape: lean-r, label: "(r > 0) x adalah Ganjil"}
-finnish@{shape: double-circle, "stop"}
+finnish@{shape: double-circle, label: "stop"}
 
 start-->num-->con
 con-->outputGanjil
