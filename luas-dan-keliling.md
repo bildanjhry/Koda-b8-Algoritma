@@ -20,7 +20,7 @@ Sebuah Flowchart untuk menentukan hasil dari luas dan keliling lingkaran.
 flowchart TD
 
 start@{shape: circle, label: "start"}
-pi@{shape: lean-r, label: "pi"}
+pi@{shape: rect, label: "pi = 3.14"}
 r@{shape: lean-r, label: "r"}
 luas@{shape: rect, label: "L = pi x r x r"}
 keliling@{shape: rect, label: "K = 2 x pi x r"}
