@@ -31,3 +31,15 @@ outputGanjil-->finnish
 outputGenap-->finnish
 
 ```
+
+```pseudo
+DECLARE x: INTEGER
+
+INPUT x
+
+IF x % 2 == 0 THEN
+    OUTPUT "Angka merupakan bilangan genap"
+ELSE
+    OUTPUT "Angka merupakan bilangan ganjil"
+ENDIF
+```
