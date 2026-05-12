@@ -22,8 +22,8 @@ flowchart TD
 
 start@{shape: circle, label: "start"}
 num@{shape: rect, label: "arr = [12, 8, 21, -3, 10]"}
-for@{shape: rect, label: "foreach (value of {arr}) {...}"}
-con@{shape: diam, label: "value < 0 "}
+for@{shape: rect, label: "for (let i = 0; i < arr.length; i++) {}"}
+con@{shape: diam, label: "if value < 0 "}
 true@{shape: rect, label: "value *= -1"}
 out@{shape: lean-r, label: '"{12, 8, 21, 3, 10}"'}
 stop@{shape: double-circle, label : "stop"}
